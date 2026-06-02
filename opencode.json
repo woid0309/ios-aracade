@@ -1,0 +1,55 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "factchat": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "FactChat",
+      "options": {
+        "baseURL": "https://factchat-cloud.mindlogic.ai/v1/gateway",
+        "apiKey": "{env:FACTCHAT_API_KEY}"
+      },
+      "models": {
+        "claude-sonnet-4-6": {
+          "name": "Claude Sonnet 4.6",
+          "limit": { "context": 200000, "output": 16000 }
+        },
+        "claude-opus-4-6": {
+          "name": "Claude Opus 4.6",
+          "limit": { "context": 200000, "output": 32000 }
+        },
+        "gpt-5.2": {
+          "name": "GPT 5.2",
+          "limit": { "context": 400000, "output": 32768 }
+        },
+        "gemini-3.1-pro-preview": {
+          "name": "Gemini 3.1 Pro Preview",
+          "limit": { "context": 1000000, "output": 65536 }
+        },
+        "gemini-3-flash-preview": {
+          "name": "Gemini 3 Flash Preview",
+          "limit": { "context": 1000000, "output": 65536 }
+        }
+      }
+    },
+    "factchat-codex": {
+      "npm": "@ai-sdk/openai",
+      "name": "FactChat Codex",
+      "options": {
+        "baseURL": "https://factchat-cloud.mindlogic.ai/v1/gateway",
+        "apiKey": "{env:FACTCHAT_API_KEY}"
+      },
+      "models": {
+        "gpt-5.2-codex": {
+          "name": "GPT 5.2 Codex",
+          "limit": { "context": 400000, "output": 32768 }
+        },
+        "gpt-5.1-codex-max": {
+          "name": "GPT 5.1 Codex Max",
+          "limit": { "context": 400000, "output": 32768 }
+        }
+      }
+    }
+  }
+}
+
+
