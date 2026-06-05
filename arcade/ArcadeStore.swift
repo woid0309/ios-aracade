@@ -1,5 +1,5 @@
-import Foundation
-import CoreLocation
+import Foundation //json 파일 불러올때 필요함
+import CoreLocation //위치관련때 필요함
 
 /// 아케이드 위치 정보를 담는 모델.
 struct ArcadeLocation: Codable {

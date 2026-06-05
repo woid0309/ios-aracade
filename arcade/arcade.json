@@ -6,7 +6,7 @@
       "latitude": 37.61924,
       "longitude": 126.91936,
       "address": "서울 연서로 29길 8-8",
-      "notes": ""
+      "notes": "영업시간: 월화수목일 10:00~24:00, 금토 10:00~다음날 02:00"
     },
     {
       "id": "amuse-town-arcade",
@@ -14,7 +14,7 @@
       "latitude": 37.5127598014303,
       "longitude": 126.944975816586,
       "address": "서울 동작구 만양로 14가길 26",
-      "notes": ""
+      "notes": "영업시간: 금토수목 08:00~다음날 05:00"
     },
     {
       "id": "hwajeong-gameland",
@@ -22,7 +22,7 @@
       "latitude": 37.6325716781014,
       "longitude": 126.831883497604,
       "address": "경기도 고양시 덕양구 화신로272 38",
-      "notes": ""
+      "notes": "영업시간: 11:00~다음날 03:00"
     },
     {
       "id": "funcity-geondae",
@@ -30,7 +30,7 @@
       "latitude": 37.5414450784985,
       "longitude": 127.068791662125,
       "address": "서울 광진구 동일로 22길 81",
-      "notes": ""
+      "notes": "영업시간: 문의"
     },
     {
       "id": "hanyang-gamecenter",
@@ -38,7 +38,7 @@
       "latitude": 37.5587090278115,
       "longitude": 127.040554610589,
       "address": "서울 성동구 마조로 9",
-      "notes": ""
+      "notes": "영업시간: 문의"
     },
     {
       "id": "beat-lab",
@@ -46,7 +46,7 @@
       "latitude": 37.6219624515015,
       "longitude": 127.073855850777,
       "address": "서울 노원구 동일로 1029",
-      "notes": ""
+      "notes": "영업시간: 문의"
     },
     {
       "id": "cpu-gameland",
@@ -54,7 +54,7 @@
       "latitude": 37.4631056063151,
       "longitude": 126.681445440328,
       "address": "인천 미추홀구 미추홀대로734번길 17",
-      "notes": ""
+      "notes": "영업시간: 07:00~다음날 05:00"
     }
   ]
 }

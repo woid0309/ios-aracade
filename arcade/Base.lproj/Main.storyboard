@@ -36,7 +36,7 @@
                             <constraint firstItem="Gv4-dx-Jr5" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="Y0h-kE-gYB"/>
                             <constraint firstItem="Gv4-dx-Jr5" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="Y7V-4X-vrZ"/>
                             <constraint firstItem="Gv4-dx-Jr5" firstAttribute="top" secondItem="I3c-bD-hYZ" secondAttribute="bottom" id="eK3-xb-S3M"/>
-                            <constraint firstItem="I3c-bD-hYZ" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.7" id="h7h-7S-cyQ"/>
+                            <constraint firstItem="I3c-bD-hYZ" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.6" id="h7h-7S-cyQ"/>
                         </constraints>
                     </view>
                     <connections>
